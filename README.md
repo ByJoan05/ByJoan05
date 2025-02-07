@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="./Duc.png"  />
+<img align="right" height="150" src="./Duc.jpg"  />
 
 ###
 
